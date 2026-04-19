@@ -207,3 +207,6 @@ poetry.toml
 pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,python
+
+# GitLoader가 클론하는 외부 langchain 레포 (RAG 실습용)
+chapter6/langchain/
